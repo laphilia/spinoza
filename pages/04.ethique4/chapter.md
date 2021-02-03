@@ -6,4 +6,5 @@ title: 'Éthique 4'
 
 ### Quatrième Partie
 
-**De la servitude humaine**, autrement dit des FORCES des AFFECTS
+**De la servitude humaine**, </br>
+autrement dit des FORCES des AFFECTS
