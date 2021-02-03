@@ -9,4 +9,4 @@ taxonomy:
 
 ### Troisième Partie
 
-**De l'origine & la nature des affects**
+**De l'origine & la nature des AFFECTS**
