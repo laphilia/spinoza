@@ -11,6 +11,6 @@ taxonomy:
 
 **De Mente**
 
-De la nature et l'origine de la --mens--
+De la nature et l'origine de la _mens_
 
 
