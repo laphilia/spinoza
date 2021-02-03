@@ -1,6 +1,7 @@
 ---
 title: Éthique
 body_classes: 'title-center title-h1h2'
+published: false
 ---
 
 ### Lire l'Éthique de Spinoza
