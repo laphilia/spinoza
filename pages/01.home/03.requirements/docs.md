@@ -5,11 +5,12 @@ taxonomy:
         - docs
 ---
 
-# Éthique 1
+# Éthique 2
 
 ### Deuxième Partie
 
 **De Mente**
+
 De la nature et l'origine de la --mens--
 
 
