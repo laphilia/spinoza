@@ -1,13 +1,14 @@
 ---
-title: Basics
+title: Éthique
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 media_order: BoekGerus.txt
 ---
 
-### Chapter 1
+### Éthique
 
-# Basics
+# Première Partoe
 
-Discover the **basic** principles
+**De Deo**
