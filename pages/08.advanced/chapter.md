@@ -1,8 +1,10 @@
 ---
 title: Advanced
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
+published: false
 ---
 
 ### Chapter 3
