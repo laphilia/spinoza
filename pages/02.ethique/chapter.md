@@ -9,6 +9,6 @@ media_order: BoekGerus.txt
 
 ### Éthique
 
-# Première Partoe
+# Première Partie
 
 **De Deo**
