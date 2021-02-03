@@ -2,7 +2,7 @@
 title: 'Éthique 5'
 ---
 
-# Éthique 5
+# ÉTHIQUE 5
 
 ### cinquième Partie
 
