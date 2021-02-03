@@ -12,6 +12,5 @@ child_type: docs
 
 **De Deo**
 
-> Moras hospitio, et fugit macies, locorum? A ira requievit inmani coronatis
-> quis mensis: rite quater per; esse timor Pittheus traiecit colebas, nervis
-> longam. Est [corpora enim ponit](http://www.billmays.net/), capillos esses.
+> Nous ajouterons ici pas à pas notre lecture de l'Éthique
+> avec des commentaires. 
