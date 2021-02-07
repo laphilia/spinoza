@@ -3,6 +3,7 @@ title: E2P20-D
 taxonomy:
     category:
         - docs
+visible: false
 ---
 
 La pensée est un attribut de la Substance/Dieu (Prop. 1), et par suite (Prop. 3), tant d’elle que de toutes ses affections et par conséquent de la _mens_ humaine aussi (Prop. 11), il doit nécessairement y avoir une idée en la Substance/Dieu. 
