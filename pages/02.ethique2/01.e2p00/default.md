@@ -20,4 +20,11 @@ Je dis appartenir à l'essence d'une chose ce dont la présence pose nécessaire
 Par idée, j'entends un concept de la _Mens_, que la _Mens_ forme pour ce qu'elle est une chose pensante.
 
 ! Explication
-Je dis concept plutôt que perception, parce que le nom de perception semble indiquer que la _Mens_ pâtit d'un objet. Alors que concept semble exprimer une action de la _Mens_.
+!Je dis concept plutôt que perception, parce que le nom de perception semble indiquer que la _Mens_ pâtit d'un objet. !Alors que concept semble exprimer une action de la _Mens_.
+
+**Définition 4**
+
+Par idée adéquate, j'entends une idée qui, en tant qu'on la considère en soi sans rapport à l'objet, a toutes les propriétés ou dénominations intrinsèques de l'idée vraie.
+
+! Explication
+!Je dis intrinsèques, pour exclure celle qui est extrinsèque, à savoir la convenance de l'idée avec ce dont elle est l'idée.
