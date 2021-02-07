@@ -5,9 +5,9 @@ taxonomy:
         - docs
 ---
 
-> As: [E1d5](/ethique2/e2p01), [E1d6](/ethique2/e2p03), [E1p25](/ethique2/e2p07)
+> As: [E1d4](/ethique2/e2p01), [E1d5](/ethique2/e2p01), [E1d6](/ethique2/e2p03), [E1p25-c](/ethique2/e2p07)
 > 
-> Ds: [E2p03](/ethique2/e2p03), [E2p20](/ethique2/e2p20), [E2p21](/ethique2/e2p21)
+> Ds: [E2p03](/ethique2/e2p03), [E2p20](/ethique2/e2p20), [E2p22](/ethique2/e2p22)
 
 **Proposition 1**
 
