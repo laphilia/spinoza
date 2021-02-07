@@ -9,6 +9,8 @@ taxonomy:
 > 
 > Ds: [E2p03](/ethique2/e2p03), [E2p20](/ethique2/e2p20), [E2p21](/ethique2/e2p21)
 
+**Proposition 1**
+
 Le Penser est un attribut de la Substance/Dieu, autrement dit, la Substance/Dieu est chose pensante (res cogitans).
 
 **Démonstration**
