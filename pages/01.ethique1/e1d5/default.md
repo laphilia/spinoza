@@ -1,5 +1,6 @@
 ---
 title: E1d5
+visible: true
 ---
 
 **Définition 5**
