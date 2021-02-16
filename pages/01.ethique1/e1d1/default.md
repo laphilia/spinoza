@@ -1,6 +1,7 @@
 ---
 title: E1d1
 published: true
+visible: true
 ---
 
 **Définition 1**
