@@ -11,6 +11,3 @@ child_type: docs
 ### Première Partie
 
 **De Deo**
-
-> Nous ajouterons ici pas à pas notre lecture de l'Éthique
-> avec des commentaires. 
