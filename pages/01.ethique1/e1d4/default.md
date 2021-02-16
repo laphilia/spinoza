@@ -1,6 +1,5 @@
 ---
 title: E1d4
-visible: true
 ---
 
 **Définition 4**
