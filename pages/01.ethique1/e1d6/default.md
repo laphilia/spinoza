@@ -1,5 +1,6 @@
 ---
 title: E1d6
+visible: true
 ---
 
 **Définition 6**
