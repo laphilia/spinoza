@@ -1,5 +1,6 @@
 ---
 title: E1p1d
+visible: false
 ---
 
 **Démonstration Proposition 1**
