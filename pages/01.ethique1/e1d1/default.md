@@ -1,5 +1,6 @@
 ---
 title: E1d1
+published: true
 ---
 
 **Définition 1**
