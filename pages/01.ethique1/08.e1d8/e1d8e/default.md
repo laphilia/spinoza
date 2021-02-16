@@ -1,6 +1,5 @@
 ---
 title: E1d8e
-visible: true
 ---
 
 **Explication Définition 8**
