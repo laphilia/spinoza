@@ -1,5 +1,6 @@
 ---
 title: E1d2
+visible: true
 ---
 
 **Définition 2**
