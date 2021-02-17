@@ -3,7 +3,6 @@ title: _E2d4
 published: true
 routable: true
 visible: true
-
 ---
 
 **Définition 4**
@@ -12,4 +11,4 @@ Par idée adéquate, j'entends une idée qui, en tant qu'on la considère en soi
 
 <u>Explication</u>
 
-Je dis intrinsèques, pour exclure celle qui est extrinsèque, à savoir la convenance de l'idée avec ce dont elle est l'idée.
+>Je dis intrinsèques, pour exclure celle qui est extrinsèque, à savoir la convenance de l'idée avec ce dont elle est l'idée.
