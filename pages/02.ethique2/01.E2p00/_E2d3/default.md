@@ -9,6 +9,6 @@ visible: true
 
 Par idée, j'entends un concept de la _Mens_, que la _Mens_ forme pour ce qu'elle est une chose pensante.
 
-<u>[Explication](/ethique2/e2p00/_e2d3/_e2d3e)</u>
+<u>[Explication]</u>
 
-Je dis concept plutôt que perception, parce que le nom de perception semble indiquer que la _Mens_ pâtit d'un objet. Alors que concept semble exprimer une action de la _Mens_.
+>Je dis concept plutôt que perception, parce que le nom de perception semble indiquer que la _Mens_ pâtit d'un objet. Alors que concept semble exprimer une action de la _Mens_.
