@@ -11,3 +11,5 @@ published: true
 
 !!! Nous espérons pouvoir ajouter bientôt un ensemble de liens structurés pour faciliter la relecture de certains propositions, démonstrations, scolies etc.
 
+[button label="Démonstration" url="/https//spinozatestcase/multisections/section1"]
+
