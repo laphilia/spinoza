@@ -12,6 +12,7 @@ child_type: subsection
 ---
 
 Par ces liens il est possible de parcourir les axiomes et les définitions du début d'Éthique 2
+
 Spinoza commence avec 7 définitions qui sont suivi par 5 axiomes. 
 
 [Définitions](https://spinoza.grainesdesavoirs.com/ethique2/multisections/e2d1)
