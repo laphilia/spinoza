@@ -13,7 +13,7 @@ child_type: subsection
 
 Par ces liens il est possible de parcourir les axiomes et les définitions du début d'Éthique 2
 
-[Axiomes](/multisections/e2a1)
+[Axiomes](https://spinoza.grainesdesavoirs.com/ethique2/multisections/e2a1)
 
-[Définitions](/multisections/e2d1)
+[Définitions](https://spinoza.grainesdesavoirs.com/ethique2/multisections/e2d1)
 
