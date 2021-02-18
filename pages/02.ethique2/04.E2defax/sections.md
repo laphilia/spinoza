@@ -1,5 +1,5 @@
 ---
-title: 'Axiomes et Définitions'
+title: 'Définitions et Axiomes'
 hide_page_title: false
 content:
     items: '@self.children'
@@ -12,8 +12,12 @@ child_type: subsection
 ---
 
 Par ces liens il est possible de parcourir les axiomes et les définitions du début d'Éthique 2
-
-[Axiomes](https://spinoza.grainesdesavoirs.com/ethique2/multisections/e2a1)
+Spinoza commence avec 7 définitions qui sont suivi par 5 axiomes. 
 
 [Définitions](https://spinoza.grainesdesavoirs.com/ethique2/multisections/e2d1)
 
+[Axiomes](https://spinoza.grainesdesavoirs.com/ethique2/multisections/e2a1)
+
+Il est également possible de les lire tous ensemble sur la page suivante:
+
+[E2début](ethique2/E2p00)
