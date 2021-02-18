@@ -20,4 +20,4 @@ Spinoza commence avec 7 définitions qui sont suivi par 5 axiomes.
 
 Il est également possible de les lire tous ensemble sur la page suivante:
 
-[E2début](ethique2/E2p00)
+[E2début](https://spinoza.grainesdesavoirs.com/ethique2/e2p00)
