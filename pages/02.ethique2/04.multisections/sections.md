@@ -1,5 +1,5 @@
 ---
-title: Multisections
+title: 'Axiomes et Définitions'
 hide_page_title: false
 content:
     items: '@self.children'
@@ -11,8 +11,7 @@ onpage_menu: true
 child_type: subsection
 ---
 
-Dit is een multisection pagina nu nog zien hoe ik hier sections in krijg.
-
+Par ces liens il est possible de parcourir les axiomes et les définitions du début d'Éthique 2
 [Axiomes](/multisections/e2a1)
 
 [Définitions](/multisections/e2d1)
