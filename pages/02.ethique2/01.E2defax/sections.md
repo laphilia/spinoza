@@ -15,9 +15,9 @@ Par ces liens il est possible de parcourir les axiomes et les définitions du d�
 
 Spinoza commence avec 7 définitions qui sont suivi par 5 axiomes. 
 
-[Définitions](https://spinoza.grainesdesavoirs.com/ethique2/multisections/e2d1)
+[Définitions](https://spinoza.grainesdesavoirs.com/ethique2/e2defax/e2d1)
 
-[Axiomes](https://spinoza.grainesdesavoirs.com/ethique2/multisections/e2a1)
+[Axiomes](https://spinoza.grainesdesavoirs.com/ethique2/e2defax/e2a1)
 
 Il est également possible de les lire tous ensemble sur la page suivante:
 
