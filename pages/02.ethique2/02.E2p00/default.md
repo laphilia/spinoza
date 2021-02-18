@@ -6,6 +6,7 @@ body_classes: modular
 onpage_menu: false
 page-inject:
     processed_content: false
+visible: false
 ---
 
 **Préambule**
